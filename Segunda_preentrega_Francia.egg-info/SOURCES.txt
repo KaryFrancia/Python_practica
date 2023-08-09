@@ -1,0 +1,8 @@
+setup.py
+Segunda_preentrega_Francia.egg-info/PKG-INFO
+Segunda_preentrega_Francia.egg-info/SOURCES.txt
+Segunda_preentrega_Francia.egg-info/dependency_links.txt
+Segunda_preentrega_Francia.egg-info/top_level.txt
+paquete_ecommerce/__init__.py
+paquete_ecommerce/modulo_cliente.py
+paquete_ecommerce/modulo_registro_usuarios.py
